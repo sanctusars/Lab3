@@ -1,0 +1,2 @@
+admin:secretpass
+user:12345
